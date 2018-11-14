@@ -4,7 +4,7 @@ const axios = require('axios');
 const Movie = require('./Movie');
 //const path = require('path'); //---heroku---
 const cors = require('cors');
-const apikey = '385e80';
+const apikey = 'df25727e';
 
 const port = process.env.PORT || 2000;
 
